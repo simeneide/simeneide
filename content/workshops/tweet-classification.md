@@ -12,4 +12,4 @@ The aim is to classify who said what on Twitter among Norwegian celebrities.
 Project:
 https://github.com/simeneide/tweet-classification
 
-![](tweet-classification.assets/tweet-classification-98c823a6.png)
+![](tweet-classification-98c823a6.png)
