@@ -1,14 +1,5 @@
 ---
-authors:
-- Joakim Rishaug
-- Simen Eide
-comments: true
-crosspost_to_medium: true
 date: "2017-09-11T15:56:49Z"
-tags:
-- NLP
-- CNN
-- recommendations
 title: Deep NLP-based Recommenders at Finn.no
 ---
 

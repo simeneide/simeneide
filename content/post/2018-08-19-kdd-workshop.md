@@ -1,13 +1,7 @@
 ---
 authors:
 - Simen Eide
-comments: true
-crosspost_to_medium: true
 date: "2018-08-19T20:50:49Z"
-tags:
-- NLP
-- CNN
-- recommendations
 title: 'KDD workshop Deep learning Day: Five lessons from building a deep neural network
   recommender for marketplaces'
 ---

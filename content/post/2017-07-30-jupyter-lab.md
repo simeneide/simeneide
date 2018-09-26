@@ -1,6 +1,6 @@
 ---
-categories: python
-crosspost_to_medium: true
+#categories: python
+#crosspost_to_medium: true
 date: "2017-07-30T08:00:00Z"
 title: Jupyter lab - First impression
 ---

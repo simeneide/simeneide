@@ -1,15 +1,7 @@
 ---
 authors:
 - Simen Eide
-comments: true
-crosspost_to_medium: true
 date: "2018-01-03T20:50:49Z"
-tags:
-- NLP
-- CNN
-- GAN
-- cars
-- recommendations
 title: Deep Recommenders, Car Pricing, Self driving rc-car and other projects in 2017
 ---
 
