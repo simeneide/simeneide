@@ -13,8 +13,8 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "recsys18-image.jpg"
+caption = "The bandit recommender"
 +++
 
 https://arxiv.org/abs/1809.02130
