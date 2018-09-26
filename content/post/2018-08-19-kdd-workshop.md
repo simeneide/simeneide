@@ -1,6 +1,4 @@
 ---
-authors:
-- Simen Eide
 date: "2018-08-19T20:50:49Z"
 title: 'KDD workshop Deep learning Day: Five lessons from building a deep neural network
   recommender for marketplaces'

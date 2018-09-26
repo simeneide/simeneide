@@ -1,6 +1,4 @@
 ---
-authors:
-- Simen Eide
 date: "2018-01-03T20:50:49Z"
 title: Deep Recommenders, Car Pricing, Self driving rc-car and other projects in 2017
 ---

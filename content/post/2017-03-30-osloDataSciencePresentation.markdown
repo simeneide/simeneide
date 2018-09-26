@@ -1,6 +1,4 @@
 ---
-# categories: recommendations
-# crosspost_to_medium: true
 date: "2017-03-30T09:49:59Z"
 title: Presentation from Oslo Data Science Meetup
 ---

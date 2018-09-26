@@ -1,6 +1,4 @@
 ---
-#categories: recommendations
-#crosspost_to_medium: true
 date: "2017-05-28T09:49:59Z"
 title: Collaborative Filtering Recommendations in Spreadsheets
 ---
