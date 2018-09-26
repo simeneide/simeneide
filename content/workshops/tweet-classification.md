@@ -13,3 +13,7 @@ Project:
 https://github.com/simeneide/tweet-classification
 
 ![](tweet-classification-98c823a6.png)
+
+
+using figure:
+{{<figure src="tweet-classification-98c823a6.png">}}
