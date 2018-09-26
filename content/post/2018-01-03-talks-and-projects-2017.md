@@ -1,7 +1,7 @@
----
-date: "2018-01-03T20:50:49Z"
-title: Deep Recommenders, Car Pricing, Self driving rc-car and other projects in 2017
----
++++
+date = 2018-01-03
+title = "Deep Recommenders, Car Pricing, Self driving rc-car and other projects in 2017"
++++
 
 I am not a fan of new years resolutions.
 If I had been, one of my new years resolutions would be to be better at writing down what I am doing all the time.

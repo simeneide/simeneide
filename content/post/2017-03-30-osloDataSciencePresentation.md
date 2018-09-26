@@ -1,7 +1,7 @@
----
-date: "2017-03-30T09:49:59Z"
-title: Presentation from Oslo Data Science Meetup
----
++++
+date = 2017-03-30
+title = "Presentation from Oslo Data Science Meetup"
++++
 
 In February I talked about the recommendation models we have at FINN.no, and how we work to develop and test new models.
 It was exciting to be talking to so many people about technical stuff,

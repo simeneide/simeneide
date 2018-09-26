@@ -1,8 +1,7 @@
----
-date: "2018-08-19T20:50:49Z"
-title: 'KDD workshop Deep learning Day: Five lessons from building a deep neural network
-  recommender for marketplaces'
----
++++
+date = 2018-08-19
+title = "KDD workshop Deep learning Day: Five lessons from building a deep neural network recommender for marketplaces"
++++
 
 Ning Zhou, Audun Øygard and I got a paper in the KDD workshop Deep Learning Day.
 We provide some practitioner's findings on applying deep learning recommendations in production! Link to [paper here.](http://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_9.pdf)
