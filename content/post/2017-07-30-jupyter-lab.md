@@ -2,6 +2,7 @@
 date = 2017-07-30
 title = "Jupyter lab - First impression"
 active = true
+tags = ["foo"]
 +++
 
 Every three months or so I get really annoyed about Jupyter Notebook being so limited,

@@ -2,6 +2,7 @@
 date = 2017-09-11
 title = "Deep NLP-based Recommenders at Finn.no"
 active = true
+tags = ["foo"]
 +++
 
 During a hackathon at FINN.no, we figured we wanted to learn more about deep NLP-models. FINN.no has a large database with ads of people trying to sell stuff (around 1 million active ads at any time), and they are categorized into a category tree with three or four layers. For example, full suspension bikes can be found under “Sport and outdoor activities” / “Bike sport” / “Full suspension bikes”.
