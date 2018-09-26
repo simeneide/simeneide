@@ -1,6 +1,7 @@
 +++
 date = 2017-03-30
 title = "Presentation from Oslo Data Science Meetup"
+active = true
 +++
 
 In February I talked about the recommendation models we have at FINN.no, and how we work to develop and test new models.

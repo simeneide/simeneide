@@ -1,6 +1,7 @@
 +++
 date = 2018-08-19
 title = "KDD workshop Deep learning Day: Five lessons from building a deep neural network recommender for marketplaces"
+active = true
 +++
 
 Ning Zhou, Audun Øygard and I got a paper in the KDD workshop Deep Learning Day.

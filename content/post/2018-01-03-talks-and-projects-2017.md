@@ -1,6 +1,7 @@
 +++
 date = 2018-01-03
 title = "Deep Recommenders, Car Pricing, Self driving rc-car and other projects in 2017"
+active = true
 +++
 
 I am not a fan of new years resolutions.
