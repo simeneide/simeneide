@@ -1,5 +1,5 @@
 +++
-title = "Deep neural network marketplace recommenders in online experiments"
+title = "Recsys 2018: Deep neural network marketplace recommenders in online experiments"
 date = 2018-09-06
 math = false
 highlight = true
@@ -17,4 +17,4 @@ image = "recsys18-image.jpg"
 caption = "The bandit recommender"
 +++
 
-https://arxiv.org/abs/1809.02130
+Paper: https://arxiv.org/abs/1809.02130
