@@ -23,10 +23,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "eide"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-100046539-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
