@@ -1,3 +1,5 @@
 public/
 .idea/
 .DS_Store
+.ipynb_check*
+Untitled*
