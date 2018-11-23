@@ -9,5 +9,4 @@ Slides from my presentation on "Bayesian Probabilistic Matrix Factorization usin
 
 
 
-
-<object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" height="500" type='application/pdf'/>
+<object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" type='application/pdf'/>
