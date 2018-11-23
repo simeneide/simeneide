@@ -5,15 +5,5 @@ active = true
 tags = ["foo"]
 +++
 
-Slides from my presentation on "Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo" by Salakhutdinov and Mnih. [Paper link.](https://dl.acm.org/citation.cfm?id=1390267)
-
+Slides from my presentation on "Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo" by Salakhutdinov and Mnih. [Paper link](https://dl.acm.org/citation.cfm?id=1390267).
 The slides can be downloaded {{% staticref "assets/Salakhutdinov2008-BPMF.pdf" "newtab" %}}here {{% /staticref %}}.
-
-
-
-
-
-
-### Inview presentation
-
-<object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" type='application/pdf'/>
