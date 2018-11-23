@@ -12,6 +12,8 @@ The slides can be downloaded {{% staticref "assets/Salakhutdinov2008-BPMF.pdf" "
 
 
 
-  
+
+
+### Inview presentation
 
 <object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" type='application/pdf'/>
