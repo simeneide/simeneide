@@ -7,8 +7,7 @@ tags = ["foo"]
 
 Slides from my presentation on "Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo" by Salakhutdinov and Mnih. [Paper link.](https://dl.acm.org/citation.cfm?id=1390267)
 
-The slides can be downloaded [here]( {{< ref "assets/Salakhutdinov2008-BPMF.pdf" >}}).
-
+The slides can be downloaded {{% staticref "assets/Salakhutdinov2008-BPMF.pdf" "newtab" %}}here {{% /staticref %}}.
 
 
 <object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" type='application/pdf'/>
