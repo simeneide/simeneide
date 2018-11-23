@@ -10,4 +10,8 @@ Slides from my presentation on "Bayesian Probabilistic Matrix Factorization usin
 The slides can be downloaded {{% staticref "assets/Salakhutdinov2008-BPMF.pdf" "newtab" %}}here {{% /staticref %}}.
 
 
+
+
+  
+
 <object data="/assets/Salakhutdinov2008-BPMF.pdf" width="100%" type='application/pdf'/>
