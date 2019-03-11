@@ -17,4 +17,5 @@ image = "recsys18-image-lower.png"
 caption = "The bandit recommender"
 +++
 
-Paper: https://arxiv.org/abs/1809.02130
+Paper: https://arxiv.org/abs/1809.02130  
+https://dl.acm.org/citation.cfm?doid=3240323.3240387  
