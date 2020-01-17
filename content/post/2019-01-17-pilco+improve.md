@@ -23,7 +23,7 @@ The original PILCO paper does this by using Gaussian Processes, while the deep P
 
 The framework assumes that the world model is of the form 
 
-$$x_t = f(x_{t-1}, u_{t-1})$$
+$x_t = f(x_{t-1}, u_{t-1})$
 
 where $x \in R^d$ is a continuous state of the world at time t,
 $u_t \in R^F$ is an action at time t, and f is some function of the real world transition dynamics.
