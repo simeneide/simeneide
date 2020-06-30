@@ -1,6 +1,6 @@
 +++
 date = 2020-06-30
-title = "Installing Pytorch on a raspberry pi"
+title = "Installing Pytorch 1.1 on a raspberry pi 4"
 active = true
 tags = ["foo"]
 +++
