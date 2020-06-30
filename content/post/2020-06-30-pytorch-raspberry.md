@@ -1,6 +1,6 @@
 +++
 date = 2020-06-30
-title = "Installing Pytorch 1.1 on a raspberry pi 4"
+title = "Installing Pytorch on a raspberry pi 4"
 active = true
 tags = ["foo"]
 +++
@@ -18,9 +18,12 @@ Install from his wheel a bit longer down the thread, and rename those _C.**.so a
 Torchvision works, but Pillow 7.0.0 was too new, so downgraded to 6.1 after some random comments I found.
 
 
-Step-by-step:
-- `sudo pip3 install torch-1.1.0-cp37-cp37m-linux_armv7l.whl`
+## Step-by-step:
 
+### PIP install pytorch from wheel
+Download wheel from here `https://github.com/nmilosev/pytorch-arm-builds` and run `sudo pip3 install torch-1.1.0-cp37-cp37m-linux_armv7l.whl`
+
+### Rename some files
 Then if you try to run `sudo python3 -c "import torch"` you get:
 
 ```
