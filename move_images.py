@@ -8,7 +8,7 @@ posts = [s for s in os.listdir(content_dir) if (".md" in s)& (s!="_index.md")]
 
 for filename in posts:
     text = open(content_dir + filename).read()
-    open(content_dir + filename, "w").write(text.replace('src="assets/', 'src="/assets/'))
+    open(content_dir + filename, "w").write(text.replace('![](assets', '![](/assets'))
     
 
     
