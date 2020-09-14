@@ -35,6 +35,7 @@ from colab_ssh import launch_ssh, init_git
 launch_ssh(ngrokToken,password)
 ```
 5. You'll now see something like this:
+
 ```
 Collecting colab_ssh
   Downloading https://files.pythonhosted.org/packages/a7/c5/eedfd8b374fead9d863cb7031d9dc97fed50003372922ba0efd85d9fe3e0/colab_ssh-0.2.63-py3-none-any.whl
@@ -49,7 +50,7 @@ Successfully running 2.tcp.ngrok.io:13254
 		Port 12345
 ```
 
-5. Go to your local VScode and select Remote-SSH: Open Configuration File, and paste the config above:
+1. Go to your local VScode and select Remote-SSH: Open Configuration File, and paste the config above:
 
 ![](/assets/2020-09-14-12-36-15.png)
 
