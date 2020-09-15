@@ -5,6 +5,29 @@ active = true
 tags = ["foo"]
 +++
 
+# Update 15 sept 2020 
+I found [these wheel builds](https://mathinf.com/pytorch/arm64/) from [Thomas Viehmann](https://twitter.com/ThomasViehmann/status/1302944934333382656) that worked very well on a rpi4 64 bit running python 3.7. They are **pytorch 1.6.0** and avoids the original hacks.
+Only issue was that my camera stopped working, but manage to circumvent it by using a different driver (v4l-utils) and using opencv's VideoCapture() to get images. 
+Got it running in a docker image with the following (removed some parts that I dont think is necessary):
+
+(the balena docker image is a fairly stripped down ubuntu image)
+
+```
+FROM balenalib/raspberrypi4-64:latest
+# Defines our working directory in container
+WORKDIR /usr/src/app
+RUN sudo apt-get update
+RUN apt-get install -y gcc python3-dev v4l-utils python3-opencv python3-pip python3-setuptools libffi-dev libssl-dev
+
+# PYTORCH: 
+RUN wget https://mathinf.com/pytorch/arm64/torch-1.6.0a0+b31f58d-cp37-cp37m-linux_aarch64.whl
+RUN wget https://mathinf.com/pytorch/arm64/torchvision-0.7.0a0+78ed10c-cp37-cp37m-linux_aarch64.whl
+RUN sudo apt-get install -y python3-numpy python3-wheel python3-setuptools python3-future python3-yaml python3-six python3-requests python3-pip python3-pillow
+RUN pip3 install torch*.whl torchvision*.whl
+```
+
+
+# Original Post
 Earlier this year I had to install pytorch on a raspiberry pi for my robotic lawn mower project (more on that later). However, the process was _very_ painful, so Ill throw my notes here in case anyone else tries to do the same. Its not supposed to be bullet-proof, but may help with some pointers. Updates to this proceudre may be found [here](https://github.com/simeneide/gardengoat#torch-and-torchvision).
 
 Installed from wheel on these:
